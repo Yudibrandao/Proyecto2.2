@@ -14,16 +14,36 @@
 
 ## CONSOLA DE NINTENDO SWITCH -[Frontend](#Frontend-)
 
-Les presento mi segundo proyecto, una Consola de Nintendo Switch con un comando lateral de cada lado, tanto del lado derecho como del lado izquierdo.
+Les presento mi segundo proyecto, una Consola de Nintendo Switch con dos comandos uno del lado derecho y otro del lado izquierdo.
 
 Consta de cuatro botones interactivos:
 
+-On/Off
+-Play
+-Gif
+-Actualización (Act)
 
-![Consola](image-1.png)
+![Consola](imagen.png)
 
-Del lado izquierdo encontramos un boton inferior que nos permite encender y encender y apagar nuestra consolas, al hacer clic en el boton de la parte superior podemos jugar un videojuego de MarioBross
+
+Del lado izquierdo encontramos un boton inferior que nos permite encender y apagar la consola.
+
+![Consola encendida](imagen1.png)
+
+
+Al hacer clic en el boton de la parte superior podemos jugar un videojuego de MarioBross.
+
+![Jugar](imagen2.png)
+
+
 
 Del lado derecho encontramos un boton inferior que nos llevara a una actualizacion de dicha consola y por ultimo pero no menos importante en la parte superior encontramos un GifDivertido de MarioBross.
+
+
+![Gif-Act](imagen3.png)
+
+
+
 
 
 ## AUTOR 
