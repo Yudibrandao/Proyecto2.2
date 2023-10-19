@@ -102,39 +102,25 @@ body {
 
 .interiorPantalla {
     background-color: rgb(55, 58, 58);
-    height: 100%;
+    height: 200vh;
     max-height: 50vh;
-    /* min-height: 50vh; */
     width: 100%;
     padding: 2%;
     border-radius: 10%;
     overflow: hidden;
 
-   
 }
-
-
-/* 
-.interiorPantalla video{
-  height: 100%;
-  margin-left: -7vw;
-} */
-/* 
-.video > video {
-    width: 100%;
-    height: 100%;
-    object-fit: cover;
-} */
 
 
 .imagen > image{
     width: 80%;
-    height: 80%;
+    height: auto;
     border-radius: 20%;
     justify-content: center;
-
-
+    display: block;
+    max-width: 100%;
 }
+
 .video > video {
     width: 100%;
     height: 100%;
@@ -146,7 +132,6 @@ body {
     width: 100%;
     height: 100%;
 }
-
 
 
 .mario-Bross.mp4{
